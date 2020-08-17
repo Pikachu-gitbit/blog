@@ -252,7 +252,7 @@ input[type="checkbox"]:checked~.sidebarIconToggle>.diagonal.part-2 {
 
 .resp-sharing-button {
 	text-align: center;
-	border-radius: 50%;
+	border-radius: 60%;
 	transition: 25ms ease-out;
 	padding: 9px 8px;
 	font-family: Helvetica Neue, Helvetica, Arial, sans-serif
@@ -261,7 +261,7 @@ input[type="checkbox"]:checked~.sidebarIconToggle>.diagonal.part-2 {
 .resp-sharing-button__icon svg {
 	width: 1.5rem;
 	height: 1.5rem;
-	margin-right: 15px;
+	margin-right: 0;
 	vertical-align: bottom
 }
 
